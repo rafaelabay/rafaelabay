@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello stranger 👋
+## Software Engineer | Toronto, ON
 
 
-Here are some ideas to get you started:
 
 🔭 I’m currently working at Rocketseat Technology 
 <br>
