@@ -1,5 +1,5 @@
 ### Hello stranger 👋
-## Front-End Engineer | Toronto, ON
+## Front-End Developer | Toronto, ON
 
 
 
