@@ -3,7 +3,7 @@
 
 
 
-🔭 I’m currently working at Rocketseat Technology 
+🖥 I’m currently working at Rocketseat Technology 
 <br>
 🌱 I’m currently studying NodeJs, ReactJs and Typescript
 <br>
